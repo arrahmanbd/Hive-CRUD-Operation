@@ -1,16 +1,15 @@
-# hivedb
+# Sample Flutter Project for Hive CRUD Explanation
 
-A new Flutter project.
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application with hive. Follow the comments for explaination
 
-A few resources to get you started if this is your first Flutter project:
+This Project Depends On:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+  hive: ^2.2.2
+  hive_flutter: ^1.1.0
+  path_provider: ^2.0.11
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For help getting started with Flutter development, follow my channel
